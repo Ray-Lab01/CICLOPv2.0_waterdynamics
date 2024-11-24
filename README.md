@@ -18,11 +18,6 @@ The above dependncies can be installed seperately or using the yml file provided
 
 A detailed turotial is also provided to help you get accustomed to the tool's usage.
 
-For more help with input flags 
-CICLOP -h 
-or
-python3 CICLOP.py -h
+For more help with input flags : CICLOP -h or python3 CICLOP.py -h
 
-for basic usage
-
-CICLOP -w tip3p -f input.pdb -o Output.pdb
+For basic usage: CICLOP -w tip3p -f input.pdb -o Output.pdb
