@@ -17,3 +17,11 @@ CICLOP is built on python3.11. The following are the dependencies required to ru
 The above dependncies can be installed seperately or using the yml file provided. And viola! You are ready to delve into the vast world of protein cavities.
 
 A detailed turotial is also provided to help you get accustomed to the tool's usage.
+For more help with input flags try
+CICLOP -h 
+or
+python3 CICLOP.py -h
+
+for basic usage
+
+CICLOP -w tip3p -f input.pdb -o Output.pdb
